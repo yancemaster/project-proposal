@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+
+<HTML lang="en-US">
+ <meta charset="utf-8">    
+  
+<head>
+    <title>
+    Independent Project Proposal
+    </title>
+  
+
+    </head>
+      
+    <body>
+        <h1> Independent Project Proposal
+        </h1>
+        <h2>Cosmonaut Space Crew</h2>
+        <p>A Collectable NFT Project</p>
+        <h3>Overview</h3>
+        <p>Cosmonaut Space Crew is a collection of 10,000 Rocketship NFTs — unique and randomly generated digital collectible assets. With the goal to "take NFTs to the moon!" Each Rocketship will land on a randomly generated landscape that will be unique to you. Althought there are and will continue to be new planets and celestial bodies for you to explore!
+</p>
+         <h3>Goals</h3>
+        
+        <li>Produce a digital product</li>
+        <li>Protoype of product</li>
+        <li>UX Research (SMAD)</li>
+        <li>Design a UX Design for website (SMAD) </li>
+        <li>Produce a working HTML/CSS made website(SMAD)</li>
+        <li>Produce a working Smart Contract</li>
+        
+        <h3>Audience (Need to do more research on specifics)</h3>
+        <li>Persona 1</li>
+        <p></p>Age 22, interested in NFT and Web 3 technologies.<p> </p>
+        <li>Persona 2</li>
+        <p>Age 30,  someone interested in collecting landscape based NFT with unique mechanics </p>
+
+        <h3>Roadmap</h3>
+        <li>September: Research and Organization</li>
+        <li>October: Designing UX For website, and working prototype</li>
+        <li>November: Finish up Contract and finished product</li>
+        <li>December: Launch</li>
+        
+        <h3>Images</h3>
+        <img src="images/cosmonaut%20grid%20profile-05.jpg"
+                  style= "width:300px; height:300px;">
+        <img src="images/cosmonaut%20demo%202-08.jpg"
+                  style= "width:300px; height:300px;">
+        
+    </body>
+</HTML>
